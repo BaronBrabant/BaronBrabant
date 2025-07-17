@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Benji || Benny
-- 👀 I’m a Software Dev. currently working with Flutter for Fellow and intrested in ML. 
+- 👀 I’m a Software Dev. currently working with Flutter for Fellow and intrested in ML.
+-  Masters in Artificial Intelligence 
 - 🌱 Bachelor in CS \~(˘▾˘\~) goal is to produce the cleanest code possible!
 - Currently finishing up a Masters in Artificial Intelligence at Queen Mary university of London.
 - Cooking up a Thesis about drift detection in reinforcement learning to observe cultural changes in online communities.
