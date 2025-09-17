@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Benji || Benny
-- 👀 I’m a Software Dev. currently working with Flutter for Fellow and intrested in ML.
+- 👀 I’m a Software Dev. currently working as an AI software engineer for Trifft Loyalty.
 -  Masters in Artificial Intelligence 
 - 🌱 Bachelor in CS \~(˘▾˘\~) goal is to produce the cleanest code possible!
-- Cooking up a Thesis about hate speech detection and classification.
+- Cooked up a Thesis about hate speech detection and classification.
 - 💞️ I’m looking to collaborate on whatever, I'm always down to learn something new  ;).
 
 <!---
